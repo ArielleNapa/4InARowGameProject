@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace C21_Ex02_AvivShabi_313171050_ArielleNapadensky_313306078
+namespace FourInARow
 {
     public class GameRules
     {
