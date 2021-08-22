@@ -1,4 +1,4 @@
-﻿namespace C21_Ex02_AvivShabi_313171050_ArielleNapadensky_313306078
+﻿namespace FourInARow
 {
     class Program
     {
